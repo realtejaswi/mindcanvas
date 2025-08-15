@@ -12,6 +12,10 @@ A full-stack web application that allows users to search the web and generate AI
 - **Dark Mode**: Toggle between light and dark themes
 - **Responsive Design**: Works on desktop and mobile devices
 
+## Screenshots
+
+
+
 ## Tech Stack
 
 ### Backend
@@ -232,6 +236,3 @@ When API keys are not provided, the app uses mock responses for development.
 5. Run the test suite
 6. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
