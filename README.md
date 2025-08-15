@@ -183,15 +183,6 @@ npm run test:e2e:ui
 - `GET /dashboard/export/csv` - Export data as CSV
 - `GET /dashboard/export/pdf` - Export data as PDF
 
-## Environment Variables
-
-### Backend (.env)
-```env
-DATABASE_URL=postgresql+psycopg2://postgres:1974@localhost:5432/MindCanvas
-SECRET_KEY=your-super-secret-key-minimum-32-characters-long
-TAVILY_API_KEY=your-tavily-api-key  # Optional
-FLUX_API_KEY=your-flux-api-key      # Optional
-```
 
 ### Frontend (.env)
 ```env
