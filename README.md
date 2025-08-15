@@ -13,9 +13,10 @@ A full-stack web application that allows users to search the web and generate AI
 - **Responsive Design**: Works on desktop and mobile devices
 
 ## Screenshots
-![Alt text](https://github.com/user-attachments/assets/251a3188-22f4-4f3d-b1b0-19bd2e243015) 
 
-![Alt text](https://github.com/user-attachments/assets/02e1a0ec-e687-415e-b6de-fc236863bbba) 
+<img src="https://github.com/user-attachments/assets/251a3188-22f4-4f3d-b1b0-19bd2e243015" alt="Alt text" width="400" style="border-radius:15px;"/>
+
+<img src="https://github.com/user-attachments/assets/02e1a0ec-e687-415e-b6de-fc236863bbba" alt="Alt text" width="400" style="border-radius:15px;"/>
 
 
 ## Tech Stack
