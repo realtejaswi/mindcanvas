@@ -57,7 +57,7 @@ A full-stack web application that allows users to search the web and generate AI
 2. **Create and activate virtual environment:**
    ```bash
    python -m venv venv
-   .venv\Scripts\activate
+   .venv\Scripts\Activate
    ```
 
 3. **Install dependencies:**
